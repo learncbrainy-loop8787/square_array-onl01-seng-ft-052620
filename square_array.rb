@@ -1,4 +1,5 @@
 def square_array(array)
-  array.eac
+  array.each do |ray|
+    
   # your code here
 end
