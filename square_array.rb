@@ -1,6 +1,6 @@
 def square_array(array)
-  ray = []
+  ray = [** 2]
   array.each do |ray|
-    puts ray ** 2
+    puts ray
 end
 end
